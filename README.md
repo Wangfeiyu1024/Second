@@ -163,9 +163,9 @@ public void exitStudent(Student stu){
 	}
 ```
 ## 实验结果
-（1）stu0学生选择一门课程且不退课      
+### （1）stu0学生选择一门课程且不退课      
 ![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/ruAMsa53pVQWN7FLK88i5l8uD2uUbnkdQYxnOi*guYUxP51BvOW343YpV.idtJ2rJugxDlQ.pGRzs2qzHN8Tun1XBD4guZxO8IGmnL.RN7g!/mnull&bo=kwXTAJMF0wADCSw!&rf=photolist&t=5)   
-（2）stu0学生选择两门课程且退课     
-![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/ruAMsa53pVQWN7FLK88i5l8uD2uUbnkdQYxnOi*guYUGlLqAe8HKciFPqFi9OcGDseaLz8HK8oVXKK2JEQ4lsUJfu4zVWlK.8x4OMv9nRi0!/mnull&bo=PQVfAT0FXwEDCSw!&rf=photolist&t=5)
+### （2）stu0学生选择两门课程且退课     
+![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/45NBuzDIW489QBoVep5mcXdRk29iXMQYszytWyLTluR1ninTUvu9xh1gjN3Q14ZWeREIpBP9CCqWcpI3pkMHDZ0nyWXJ0xamgbjkSo4TckE!/b&bo=PQVfAT0FXwEDGTw!&rf=viewer_4)     
 ## 实验感想
   通过此次试验掌握了通过类名定义变量,掌握了Super()关键词，使用它可继承父类的构造方法，并用来实例化对象，掌握类的继承关系，将人类与老师学生类连接起来，掌握tostring（）方法，并可通过对象输出相关信息。也会通过构造方法实例化对象。整体系统地学习了怎样把类与类之间建立联系，并会熟练通过使用这些方法和属性做出学生选课系统。  
